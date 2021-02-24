@@ -1,0 +1,5 @@
+node_modules/
+class_files/
+class_activities/
+resources/
+.DS_Store
